@@ -4,8 +4,9 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git from master");
-		int i =2;
-		System.out.println("i: " + i);
+		int i =3;
+		//Feb Release
+		System.out.println("i is 3 in Feb Release: " + i);
 	}
 
 }
